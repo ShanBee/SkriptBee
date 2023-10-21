@@ -1,0 +1,2 @@
+# SkriptBee
+A Skript addon.
